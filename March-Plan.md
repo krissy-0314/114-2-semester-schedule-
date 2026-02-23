@@ -32,7 +32,7 @@
 
 | 時段 | 週一 Mon | 週二 Tue | 週三 Wed | 週四 Thu | 週五 Fri | 週六 Sat | 週日 Sun |
 |:----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| **09:00<br>–<br>12:00** | 📚 Information Privacy<br><br><br> | 📚 Critical Thinking<br><br><br> | 🚄 台北<br>Daigo Sausage<br>工作<br> | 📚 Professional Presentation<br><br><br> | 📚 Human Resource Practices<br><br><br> | <br><br><br> | <br><br><br> |
+| **09:00<br>–<br>12:00** | 📚 Information Privacy<br><br><br> | 📚 Critical Thinking<br><br><br> | 🚄 台北<br>Daigo Sausage<br>工作<br> | 📚 Professional Presentation and writing<br><br><br> | 📚 Human Resource Practices<br><br><br> | <br><br><br> | <br><br><br> |
 | **12:00<br>–<br>13:10** | <br><br><br> | <br><br><br> | 🚄 台北<br>Daigo Sausage<br>工作<br> | <br><br><br> | <br><br><br> | <br><br><br> | <br><br><br> |
 | **13:10<br>–<br>17:00** | <br><br><br> | 📚 Linear Algebra<br>(13:10-16:00)<br><br> | 🚄 台北<br>Daigo Sausage<br>工作<br> | 📚 Social Psychology<br>(13:10-16:00)<br><br> | 💑 男友約會日<br>🚫 不排任務<br><br> | <br><br><br> | <br><br><br> |
 | **17:00<br>–<br>19:00** | <br><br><br> | 💪 健身<br>(16:00-17:30)<br><br> | 🚄 台北<br>Daigo Sausage<br>工作<br> | 💪 健身<br>(16:00-17:30)<br><br> | 💑 男友約會日<br>🚫 不排任務<br><br> | <br><br><br> | <br><br><br> |
